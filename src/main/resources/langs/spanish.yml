@@ -1,0 +1,4 @@
+CHEST_OPEN: "abrió un cofre"
+CHEST_CLOSE: "cerró un cofre"
+CHEST_ITEM_ADDED: "agregó items al cofre"
+CHEST_ITEM_REMOVED: "quitó items del cofre"

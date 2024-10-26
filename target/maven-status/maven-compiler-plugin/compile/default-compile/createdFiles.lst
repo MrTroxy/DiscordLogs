@@ -1,0 +1,7 @@
+com\dev\mrtroxy\DiscordLogs.class
+com\dev\mrtroxy\utils\LangManager.class
+com\dev\mrtroxy\utils\DiscordWebhook.class
+com\dev\mrtroxy\models\LogMessage.class
+com\dev\mrtroxy\listeners\ChestListener.class
+com\dev\mrtroxy\config\ConfigManager.class
+com\dev\mrtroxy\listeners\ChestListener$1.class

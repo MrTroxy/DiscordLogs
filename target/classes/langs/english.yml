@@ -1,0 +1,4 @@
+CHEST_OPEN: "opened a chest"
+CHEST_CLOSE: "closed a chest"
+CHEST_ITEM_ADDED: "added items to chest"
+CHEST_ITEM_REMOVED: "removed items from chest"

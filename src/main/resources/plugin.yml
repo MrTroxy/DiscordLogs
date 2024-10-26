@@ -1,0 +1,11 @@
+name: DiscordLogs
+version: 1.0
+main: com.dev.mrtroxy.DiscordLogs
+author: MrTroxy
+description: A plugin to send player actions logs to Discord webhooks
+api-version: 1.8.8
+commands:
+  discordlogs:
+    description: Main command for DiscordLogs plugin
+    aliases: [dlogs]
+    permission: discordlogs.admin

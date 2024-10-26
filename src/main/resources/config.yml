@@ -1,0 +1,11 @@
+# Discord Logs Configuration
+
+# Discord webhook URL
+webhook-url: "YOUR_WEBHOOK_URL"
+
+# Plugin language (english, french, spanish)
+language: "english"
+
+# Logging settings
+logging:
+  chest-interactions: true
