@@ -9,3 +9,16 @@ language: "english"
 # Logging settings
 logging:
   chest-interactions: true
+
+# MySQL Configuration
+mysql:
+  enabled: false
+  host: "localhost"
+  port: 3306
+  database: "minecraft_logs"
+  username: "root"
+  password: "password"
+  table: "discord_logs"
+
+  # Debug settings
+  debug: false
